@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChartView">
+        <attr name="border_color" format="color"/>
+        <attr name="border_width" format="dimension"/>
+        <attr name="point_x" format="float"/>
+        <attr name="point_y" format="float"/>
+        <attr name="content" format="string"/>
+        <attr name="y_text" format="string"/>
+        <attr name="x_text" format="string"/>
+        <attr name="point_color" format="color"/>
+        <attr name="lines_color" format="color"/>
+        <attr name="X_Y_color" format="color"/>
+    </declare-styleable>
+
+</resources>
